@@ -13,6 +13,7 @@
 		8407145F22F40BD2005C1102 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8407145E22F40BD2005C1102 /* Assets.xcassets */; };
 		8407146222F40BD2005C1102 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8407146022F40BD2005C1102 /* LaunchScreen.storyboard */; };
 		8407146A22F40E31005C1102 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8407146922F40E31005C1102 /* SecondViewController.swift */; };
+		840D428B22F83E4200133463 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 840D428A22F83E4200133463 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8407146122F40BD2005C1102 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8407146322F40BD2005C1102 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8407146922F40E31005C1102 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		840D428A22F83E4200133463 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		8407144B22F40BD1005C1102 = {
 			isa = PBXGroup;
 			children = (
+				840D428A22F83E4200133463 /* .gitignore */,
 				8407145622F40BD1005C1102 /* PassDataProject */,
 				8407145522F40BD1005C1102 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				840D428B22F83E4200133463 /* .gitignore in Resources */,
 				8407146222F40BD2005C1102 /* LaunchScreen.storyboard in Resources */,
 				8407145F22F40BD2005C1102 /* Assets.xcassets in Resources */,
 				8407145D22F40BD1005C1102 /* Main.storyboard in Resources */,
